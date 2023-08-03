@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey! Im Ssean 👋
 
 <!--
 **SeanDot/SeanDot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
