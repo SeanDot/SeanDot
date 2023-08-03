@@ -1,5 +1,10 @@
 ### Hey! Im Sean 👋
-
+- Im currently learning Python
+- im currently enrolled at URI
+- im learning how to use github and jupyter at the moment.
+- i would love to fully learn a coding language, particularly java script
+- im looking for tips on how to better with coding.
+- fun fact i built my first computer at 8 or 9.
 <!--
 **SeanDot/SeanDot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
